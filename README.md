@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/tushar-matey/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/tushar-matey/Leetcode/tree/master/0056-merge-intervals) |
 | [0189-rotate-array](https://github.com/tushar-matey/Leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tushar-matey/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/tushar-matey/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/tushar-matey/Leetcode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tushar-matey/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
@@ -68,9 +70,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/tushar-matey/Leetcode/tree/master/0049-group-anagrams) |
 | [1197-parsing-a-boolean-expression](https://github.com/tushar-matey/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 ## Recursion
 |  |
 | ------- |
 | [1197-parsing-a-boolean-expression](https://github.com/tushar-matey/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
+## Hash Table
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/tushar-matey/Leetcode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
