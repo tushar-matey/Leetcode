@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/tushar-matey/Leetcode/tree/master/0049-group-anagrams) |
 | [1197-parsing-a-boolean-expression](https://github.com/tushar-matey/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/tushar-matey/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Recursion
 |  |
 | ------- |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/tushar-matey/Leetcode/tree/master/0049-group-anagrams) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/tushar-matey/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 <!---LeetCode Topics End-->
