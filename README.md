@@ -101,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/tushar-matey/Leetcode/tree/master/0140-word-break-ii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/tushar-matey/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
