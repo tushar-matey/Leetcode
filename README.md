@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/tushar-matey/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/tushar-matey/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/tushar-matey/Leetcode/tree/master/0056-merge-intervals) |
+| [0135-candy](https://github.com/tushar-matey/Leetcode/tree/master/0135-candy) |
 | [0140-word-break-ii](https://github.com/tushar-matey/Leetcode/tree/master/0140-word-break-ii) |
 | [0189-rotate-array](https://github.com/tushar-matey/Leetcode/tree/master/0189-rotate-array) |
 | [0213-house-robber-ii](https://github.com/tushar-matey/Leetcode/tree/master/0213-house-robber-ii) |
@@ -115,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/tushar-matey/Leetcode/tree/master/0175-combine-two-tables) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/tushar-matey/Leetcode/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
