@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/tushar-matey/Leetcode/tree/master/0049-group-anagrams) |
+| [0091-decode-ways](https://github.com/tushar-matey/Leetcode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/tushar-matey/Leetcode/tree/master/0097-interleaving-string) |
 | [0131-palindrome-partitioning](https://github.com/tushar-matey/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/tushar-matey/Leetcode/tree/master/0140-word-break-ii) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/tushar-matey/Leetcode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/tushar-matey/Leetcode/tree/master/0097-interleaving-string) |
 | [0131-palindrome-partitioning](https://github.com/tushar-matey/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/tushar-matey/Leetcode/tree/master/0140-word-break-ii) |
