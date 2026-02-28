@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/tushar-matey/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0739-daily-temperatures](https://github.com/tushar-matey/Leetcode/tree/master/0739-daily-temperatures) |
 | [1197-parsing-a-boolean-expression](https://github.com/tushar-matey/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 ## Design
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/tushar-matey/Leetcode/tree/master/0189-rotate-array) |
 | [0213-house-robber-ii](https://github.com/tushar-matey/Leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tushar-matey/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0739-daily-temperatures](https://github.com/tushar-matey/Leetcode/tree/master/0739-daily-temperatures) |
 ## Math
 |  |
 | ------- |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/tushar-matey/Leetcode/tree/master/0135-candy) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/tushar-matey/Leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
