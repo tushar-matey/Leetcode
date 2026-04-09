@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/tushar-matey/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0021-merge-two-sorted-lists](https://github.com/tushar-matey/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [1197-parsing-a-boolean-expression](https://github.com/tushar-matey/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 ## Hash Table
 |  |
@@ -173,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/tushar-matey/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/tushar-matey/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
