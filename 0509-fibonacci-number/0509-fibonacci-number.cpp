@@ -1,6 +1,5 @@
 class Solution {
 public:
-
     vector<vector<int>> mul(vector<vector<int>> v,vector<vector<int>>u){
         int n=v.size();
         vector<vector<int>>res1(n,vector<int>(n,0));
@@ -13,16 +12,6 @@ public:
         }
         return res1;
     }
-    void print(vector<vector<int>>v){
-        for(auto i:v){
-            for(int j:i){
-                cout<<j<<" ";
-            }
-            cout<<endl;
-        }
-        cout<<endl;
-    }
-
     vector<vector<int>> power(vector<vector<int>>v,int exp){
         int n=v.size();
         vector<vector<int>>res(n,vector<int>(n,0));
