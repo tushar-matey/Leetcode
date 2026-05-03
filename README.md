@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/tushar-matey/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/tushar-matey/Leetcode/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/tushar-matey/Leetcode/tree/master/0509-fibonacci-number) |
+| [0790-domino-and-tromino-tiling](https://github.com/tushar-matey/Leetcode/tree/master/0790-domino-and-tromino-tiling) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/tushar-matey/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Backtracking
 |  |
