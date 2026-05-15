@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/tushar-matey/Leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tushar-matey/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/tushar-matey/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/tushar-matey/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0739-daily-temperatures](https://github.com/tushar-matey/Leetcode/tree/master/0739-daily-temperatures) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/tushar-matey/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Math
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tushar-matey/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/tushar-matey/Leetcode/tree/master/0112-path-sum) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/tushar-matey/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0543-diameter-of-binary-tree](https://github.com/tushar-matey/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/tushar-matey/Leetcode/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tushar-matey/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/tushar-matey/Leetcode/tree/master/0112-path-sum) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/tushar-matey/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/tushar-matey/Leetcode/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/tushar-matey/Leetcode/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/tushar-matey/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/tushar-matey/Leetcode/tree/master/0213-house-robber-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/tushar-matey/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0509-fibonacci-number](https://github.com/tushar-matey/Leetcode/tree/master/0509-fibonacci-number) |
 | [0790-domino-and-tromino-tiling](https://github.com/tushar-matey/Leetcode/tree/master/0790-domino-and-tromino-tiling) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/tushar-matey/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -138,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/tushar-matey/Leetcode/tree/master/0140-word-break-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/tushar-matey/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0509-fibonacci-number](https://github.com/tushar-matey/Leetcode/tree/master/0509-fibonacci-number) |
 ## Database
 |  |
@@ -158,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/tushar-matey/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/tushar-matey/Leetcode/tree/master/0547-number-of-provinces) |
 ## Sliding Window
 |  |
@@ -195,4 +201,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/tushar-matey/Leetcode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
+## Topological Sort
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/tushar-matey/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/tushar-matey/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
