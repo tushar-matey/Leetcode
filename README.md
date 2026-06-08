@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tushar-matey/Leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/tushar-matey/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/tushar-matey/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/tushar-matey/Leetcode/tree/master/0056-merge-intervals) |
 | [0135-candy](https://github.com/tushar-matey/Leetcode/tree/master/0135-candy) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tushar-matey/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/tushar-matey/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0014-longest-common-prefix](https://github.com/tushar-matey/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/tushar-matey/Leetcode/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/tushar-matey/Leetcode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/tushar-matey/Leetcode/tree/master/0097-interleaving-string) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/tushar-matey/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0140-word-break-ii](https://github.com/tushar-matey/Leetcode/tree/master/0140-word-break-ii) |
 ## Memoization
 |  |
