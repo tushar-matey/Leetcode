@@ -13,104 +13,37 @@ class Solution {
 public:
 
     TreeNode* succeser(TreeNode* r){
+        r=r->right;
         while(r->left){
             r=r->left;
         }
         return r;
     }
 
-    void delete_(TreeNode* &root,int val){
-        if(!root){
-            return ;
-        }
-        if(root->val==val){
-            TreeNode* &r=root;
-            if(r->left && !r->right){
-                r=r->left;
-                return;
-            }
-            else if(!r->left && r->right){
-                
-                r=r->right;
-                
-                return;
-            }
-            else if(!r->left && !r->right){
-                root=nullptr;
-                return;
-            }
-            else{
-                TreeNode* succ=succeser(r->right);
-                r->val=succ->val;
-                delete_(r->right,succ->val);
-            }
-            
-            return;
-            
-        }
-        if(root->val>val && root->left){
-            if(root->left->val==val){
-                TreeNode* &r=root->left;
-                if(r->val == val){
-                    if(r->left && !r->right){
-                        r=r->left;
-                        return;
-                    }
-                    else if(!r->left && r->right){
-                        r=r->right;
-                        return;
-                    }
-                    else if(!r->left && !r->right){
-                        root->left=nullptr;
-                        return;
-                    }
-                    else{
-                        TreeNode* succ=succeser(r->right);
-                        r->val=succ->val;
-                        delete_(r->right,succ->val);
-                    }
-                }
-                return;
-            }
-            else{
-                delete_(root->left,val);
-            }
-        }
-        if(root->val<val && root->right){
-            if(root->right->val==val){
-                TreeNode* &r=root->right;
-                if(r->val == val){
-                    if(r->left && !r->right){
-                        r=r->left;
-                        return;
-                    }
-                    else if(!r->left && r->right){
-                        r=r->right;
-                        return;
-                    }
-                    else if(!r->left && !r->right){
-                        root->right=nullptr;
-                        return;
-                    }
-                    else{
-                        TreeNode* succ=succeser(r->right);
-                        r->val=succ->val;
-                        delete_(r->right,succ->val);
-                    }
-                }
-                return;
-            }
-            else{
-                delete_(root->right,val);
-            }
-        }
-        
-
-
-    }
 
     TreeNode* deleteNode(TreeNode* root, int key) {
-        delete_(root,key);
+        if(!root){
+            return nullptr;
+        }
+        if(root->val<key){
+            root->right=deleteNode(root->right,key);
+        }
+        else if(root->val>key){
+            root->left=deleteNode(root->left,key);
+        }
+        else{
+            if(!root->left){
+                return root->right;
+            }
+            if(!root->right){
+                return root->left;
+            }
+            else{
+                TreeNode* succ=succeser(root);
+                root->val=succ->val;
+                root->right=deleteNode(root->right,succ->val);
+            }
+        }
         return root;
     }
 };
