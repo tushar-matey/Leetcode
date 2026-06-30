@@ -67,7 +67,7 @@ public:
             }
         }
         max_=max(max_,rn->sum);
-        cout<<rn->sum<<" "<<root->val<<endl;
+        // cout<<rn->sum<<" "<<root->val<<endl;
     }
 
     int maxSumBST(TreeNode* root) {
