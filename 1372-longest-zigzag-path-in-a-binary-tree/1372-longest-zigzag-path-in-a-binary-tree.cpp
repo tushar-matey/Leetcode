@@ -16,7 +16,7 @@ public:
         size_t operator()(const pair<TreeNode*,int>&p)const{
             size_t h1=hash<TreeNode*>{}(p.first);
             size_t h2=hash<int>{}(p.second);
-            return h1 ^ (h2 + 0x9e3779b9 + (h1 << 6) + (h1 >> 2));
+            return h1+131*h2;
         }
     };
     
@@ -46,24 +46,27 @@ public:
         return path;
     }
     int ans=0;
-    // void l(TreeNode* root){
-    //     if(!r){
-    //         return;
-    //     }
-    //     if(r->right){
-    //         l(root->right);
-    //     }
-    //     if(r->left){
-    //         l(root->left);
-    //     }
-    //     ans=max(ans,re(root,0));
-    //     ans=max(ans,re(root,1));
-    // }
+    void l(TreeNode* r){
+        if(!r){
+            return;
+        }
+        if(r->right){
+            l(r->right);
+        }
+        if(r->left){
+            l(r->left);
+        }
+        ans=max(ans,re(r,0));
+        ans=max(ans,re(r,1));
+        ans=max(ans,re(r,2));
+    
+    }
 
     int longestZigZag(TreeNode* root) {
         if(!root){
             return 0;
         }
-        return max({re(root,2),longestZigZag(root->right),longestZigZag(root->left)});
+        l(root);
+        return ans;
     }
 };
