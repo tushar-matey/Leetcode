@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/tushar-matey/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/tushar-matey/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0739-daily-temperatures](https://github.com/tushar-matey/Leetcode/tree/master/0739-daily-temperatures) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/tushar-matey/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/tushar-matey/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Math
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/tushar-matey/Leetcode/tree/master/0112-path-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/tushar-matey/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/tushar-matey/Leetcode/tree/master/0547-number-of-provinces) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/tushar-matey/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/tushar-matey/Leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Binary Tree
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/tushar-matey/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/tushar-matey/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Quickselect
 |  |
 | ------- |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/tushar-matey/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/tushar-matey/Leetcode/tree/master/0547-number-of-provinces) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/tushar-matey/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/tushar-matey/Leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Sliding Window
 |  |
@@ -233,9 +237,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/tushar-matey/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/tushar-matey/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/tushar-matey/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/tushar-matey/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Shortest Path
+|  |
+| ------- |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/tushar-matey/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
