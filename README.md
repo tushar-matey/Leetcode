@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/tushar-matey/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0739-daily-temperatures](https://github.com/tushar-matey/Leetcode/tree/master/0739-daily-temperatures) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/tushar-matey/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1584-min-cost-to-connect-all-points](https://github.com/tushar-matey/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/tushar-matey/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Math
 |  |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/tushar-matey/Leetcode/tree/master/0547-number-of-provinces) |
+| [1584-min-cost-to-connect-all-points](https://github.com/tushar-matey/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Graph Theory
 |  |
 | ------- |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/tushar-matey/Leetcode/tree/master/0547-number-of-provinces) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/tushar-matey/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/tushar-matey/Leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1584-min-cost-to-connect-all-points](https://github.com/tushar-matey/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Sliding Window
 |  |
 | ------- |
@@ -247,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/tushar-matey/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/tushar-matey/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
