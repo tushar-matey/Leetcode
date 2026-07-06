@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/tushar-matey/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/tushar-matey/Leetcode/tree/master/0056-merge-intervals) |
 | [0135-candy](https://github.com/tushar-matey/Leetcode/tree/master/0135-candy) |
+| [0137-single-number-ii](https://github.com/tushar-matey/Leetcode/tree/master/0137-single-number-ii) |
 | [0140-word-break-ii](https://github.com/tushar-matey/Leetcode/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/tushar-matey/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/tushar-matey/Leetcode/tree/master/0189-rotate-array) |
@@ -254,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/tushar-matey/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/tushar-matey/Leetcode/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
