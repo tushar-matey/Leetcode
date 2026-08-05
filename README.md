@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/tushar-matey/Leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/tushar-matey/Leetcode/tree/master/0509-fibonacci-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/tushar-matey/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/tushar-matey/Leetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3945-digit-frequency-score](https://github.com/tushar-matey/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/tushar-matey/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/tushar-matey/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/tushar-matey/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/tushar-matey/Leetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Backtracking
 |  |
 | ------- |
