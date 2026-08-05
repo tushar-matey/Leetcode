@@ -1,9 +1,6 @@
 class Solution {
 public:
-
     int minCost(int n) {
-        n--;
-        int ans=(n*(n+1))/2;
-        return ans;
+        return((n-1)*(n))/2;
     }
 };
