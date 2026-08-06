@@ -1,6 +1,10 @@
 class Solution {
-public:
+public:    
     int minCost(int n) {
-        return((n-1)*(n))/2;
+      int cost = 0;
+      for (int i=1;i<n;i++){
+        cost += i;
+      }
+      return cost;
     }
 };
