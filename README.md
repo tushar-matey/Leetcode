@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/tushar-matey/Leetcode/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/tushar-matey/Leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/tushar-matey/Leetcode/tree/master/0509-fibonacci-number) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/tushar-matey/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/tushar-matey/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/tushar-matey/Leetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3945-digit-frequency-score](https://github.com/tushar-matey/Leetcode/tree/master/3945-digit-frequency-score) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/tushar-matey/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/tushar-matey/Leetcode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Topological Sort
 |  |
