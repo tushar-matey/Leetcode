@@ -7,6 +7,7 @@ public:
             int temp=n%10;
             p*=temp;
             n/=10;
+            if (p == 0) break;
         }
         return p%t==0;
     }
