@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/tushar-matey/Leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tushar-matey/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0260-single-number-iii](https://github.com/tushar-matey/Leetcode/tree/master/0260-single-number-iii) |
+| [0274-h-index](https://github.com/tushar-matey/Leetcode/tree/master/0274-h-index) |
 | [0307-range-sum-query-mutable](https://github.com/tushar-matey/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/tushar-matey/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/tushar-matey/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/tushar-matey/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/tushar-matey/Leetcode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tushar-matey/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0274-h-index](https://github.com/tushar-matey/Leetcode/tree/master/0274-h-index) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/tushar-matey/Leetcode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Heap (Priority Queue)
 |  |
@@ -282,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/tushar-matey/Leetcode/tree/master/0307-range-sum-query-mutable) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/tushar-matey/Leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
