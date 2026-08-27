@@ -7,10 +7,10 @@ public:
         }
         vector<vector<int>>dist(n,vector<int>(k+2,INT_MAX));//u,k
         dist[src][0]=0;
-        priority_queue<vector<int>,vector<vector<int>>,greater<vector<int>>>q;
+        queue<vector<int>>q;
         q.push({0,src,0});//w,u,k
         while(!q.empty()){
-            vector<int>f=q.top();
+            vector<int>f=q.front();
             q.pop();
             if(dist[f[1]][f[2]]<f[0]){
                 continue;
