@@ -11,12 +11,8 @@
  */
 class Solution {
 public:
-    struct opt{
-        size_t operator()(const TreeNode* r) const{
-            return hash<const TreeNode*>{}(r);
-        }
-    };
-    int r1(TreeNode* r, unordered_map<TreeNode*,int,opt>&m){
+     
+    int r1(TreeNode* r, unordered_map<TreeNode*,int>&m){
         if(!r){
             return 0;
         }
@@ -37,7 +33,7 @@ public:
         return max(take,notTake);
     }
     int rob(TreeNode* r) {
-        unordered_map<TreeNode*,int,opt>m;
+        unordered_map<TreeNode*,int>m;
         return r1(r,m);
         // if(!r){
         //     return 0;
