@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/tushar-matey/Leetcode/tree/master/0189-rotate-array) |
 | [0213-house-robber-ii](https://github.com/tushar-matey/Leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tushar-matey/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0221-maximal-square](https://github.com/tushar-matey/Leetcode/tree/master/0221-maximal-square) |
 | [0260-single-number-iii](https://github.com/tushar-matey/Leetcode/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/tushar-matey/Leetcode/tree/master/0274-h-index) |
 | [0307-range-sum-query-mutable](https://github.com/tushar-matey/Leetcode/tree/master/0307-range-sum-query-mutable) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/tushar-matey/Leetcode/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/tushar-matey/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/tushar-matey/Leetcode/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/tushar-matey/Leetcode/tree/master/0221-maximal-square) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/tushar-matey/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/tushar-matey/Leetcode/tree/master/0337-house-robber-iii) |
 | [0509-fibonacci-number](https://github.com/tushar-matey/Leetcode/tree/master/0509-fibonacci-number) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0221-maximal-square](https://github.com/tushar-matey/Leetcode/tree/master/0221-maximal-square) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/tushar-matey/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/tushar-matey/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Binary Search Tree
