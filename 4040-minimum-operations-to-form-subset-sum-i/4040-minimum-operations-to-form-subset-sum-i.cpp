@@ -39,10 +39,10 @@ public:
                     //     cout<<nums[i-1]/x<<endl;
                     // }
                 }
-                if((j-(nums[i-1]/x))>=0 && dp[i-1][j-(nums[i-1]/x)].first && op>dp[i-1][j-(nums[i-1]/x)].second){
-                    ans=dp[i-1][j-(nums[i-1]/x)].first;
-                    op=dp[i-1][j-(nums[i-1]/x)].second;
-                }
+                // if((j-(nums[i-1]/x))>=0 && dp[i-1][j-(nums[i-1]/x)].first && op>dp[i-1][j-(nums[i-1]/x)].second){
+                //     ans=dp[i-1][j-(nums[i-1]/x)].first;
+                //     op=dp[i-1][j-(nums[i-1]/x)].second;
+                // }
                 dp[i][j]={ans,op};
             }
         }
