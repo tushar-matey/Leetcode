@@ -73,7 +73,6 @@ public:
             it++;
 
         }
-        
         return dp[prev->first];
     }
 };
