@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/tushar-matey/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/tushar-matey/Leetcode/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/tushar-matey/Leetcode/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/tushar-matey/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/tushar-matey/Leetcode/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/tushar-matey/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tushar-matey/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/tushar-matey/Leetcode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/tushar-matey/Leetcode/tree/master/0097-interleaving-string) |
 | [0131-palindrome-partitioning](https://github.com/tushar-matey/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/tushar-matey/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/tushar-matey/Leetcode/tree/master/0140-word-break-ii) |
 | [1092-shortest-common-supersequence](https://github.com/tushar-matey/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/tushar-matey/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/tushar-matey/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tushar-matey/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/tushar-matey/Leetcode/tree/master/0049-group-anagrams) |
+| [0139-word-break](https://github.com/tushar-matey/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/tushar-matey/Leetcode/tree/master/0140-word-break-ii) |
 | [0740-delete-and-earn](https://github.com/tushar-matey/Leetcode/tree/master/0740-delete-and-earn) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/tushar-matey/Leetcode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/tushar-matey/Leetcode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/tushar-matey/Leetcode/tree/master/0097-interleaving-string) |
 | [0131-palindrome-partitioning](https://github.com/tushar-matey/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/tushar-matey/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/tushar-matey/Leetcode/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/tushar-matey/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/tushar-matey/Leetcode/tree/master/0213-house-robber-ii) |
@@ -191,10 +195,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/tushar-matey/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/tushar-matey/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/tushar-matey/Leetcode/tree/master/0140-word-break-ii) |
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/tushar-matey/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/tushar-matey/Leetcode/tree/master/0140-word-break-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/tushar-matey/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0509-fibonacci-number](https://github.com/tushar-matey/Leetcode/tree/master/0509-fibonacci-number) |
@@ -309,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/tushar-matey/Leetcode/tree/master/0337-house-robber-iii) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/tushar-matey/Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
