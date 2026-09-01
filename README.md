@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/tushar-matey/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0739-daily-temperatures](https://github.com/tushar-matey/Leetcode/tree/master/0739-daily-temperatures) |
 | [1197-parsing-a-boolean-expression](https://github.com/tushar-matey/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/tushar-matey/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Design
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/tushar-matey/Leetcode/tree/master/0740-delete-and-earn) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/tushar-matey/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1584-min-cost-to-connect-all-points](https://github.com/tushar-matey/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/tushar-matey/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/tushar-matey/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Math
 |  |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/tushar-matey/Leetcode/tree/master/0739-daily-temperatures) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/tushar-matey/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Union-Find
 |  |
 | ------- |
