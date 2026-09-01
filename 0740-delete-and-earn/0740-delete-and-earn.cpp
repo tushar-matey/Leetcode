@@ -58,9 +58,6 @@ public:
             int val=it->second*it->first;
             //notTake
             int notTake=dp[prev->first];
-            // if(it->first==4){
-            //     cout<<notTake<<" "<<dp[prev->first]<<" "<<prev->first<<endl;
-            // }
             //take
             int take=INT_MIN;
             
@@ -76,9 +73,7 @@ public:
             it++;
 
         }
-        for(auto i:dp){
-            cout<<i.first<<" "<<i.second<<endl;
-        }
+        
         return dp[prev->first];
     }
 };
