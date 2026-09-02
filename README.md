@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/tushar-matey/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/tushar-matey/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/tushar-matey/Leetcode/tree/master/0140-word-break-ii) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/tushar-matey/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/tushar-matey/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/tushar-matey/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/tushar-matey/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/tushar-matey/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/tushar-matey/Leetcode/tree/master/0337-house-robber-iii) |
 | [0509-fibonacci-number](https://github.com/tushar-matey/Leetcode/tree/master/0509-fibonacci-number) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/tushar-matey/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0740-delete-and-earn](https://github.com/tushar-matey/Leetcode/tree/master/0740-delete-and-earn) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tushar-matey/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0790-domino-and-tromino-tiling](https://github.com/tushar-matey/Leetcode/tree/master/0790-domino-and-tromino-tiling) |
@@ -322,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/tushar-matey/Leetcode/tree/master/0139-word-break) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/tushar-matey/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 <!---LeetCode Topics End-->
